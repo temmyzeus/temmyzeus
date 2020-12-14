@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm a Temiloluwa Awoyele, a.k.a temmyzeus
 
 <!--
-**temmyzeus/temmyzeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
