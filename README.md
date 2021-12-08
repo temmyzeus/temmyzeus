@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm a Temiloluwa Awoyele, a.k.a temmyzeus</h1>
 
 - 🔭 I’m currently working on:
-    - [Catch-Fake-News](https://github.com/temmyzeus/Catch-Fake-News)
+    - [No_Toxic](https://github.com/temmyzeus/No-Toxic)
 - 🌱 I’m currently learning
 	- Transformers & Bert
 - 👯 I’m looking to collaborate on:
