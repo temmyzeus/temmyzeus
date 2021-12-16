@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on:
     - [No_Toxic](https://github.com/temmyzeus/No-Toxic)
+    - [text_explore](https://github.com/temmyzeus/text_explore) : A python package to perform EDA on text
 - 🌱 I’m currently learning
 	- Transformers & Bert
 - 👯 I’m looking to collaborate on:
