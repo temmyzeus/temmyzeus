@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm a Temiloluwa Awoyele, a.k.a temmyzeus</h1>
 
 - 🔭 I’m currently working on:
-    - [No_Toxic](https://github.com/temmyzeus/No-Toxic): An API to checkout the qualitative toxicty (definite class) or quantatitive toxicity (probabilty) of text between the follwiny classes => Toxic, Severly Toxic, Obscene, Threatening, Insulting and Identity Hate.
+    - [No_Toxic](https://github.com/temmyzeus/No-Toxic): An API to checkout the qualitative toxicty (definite class) or quantatitive toxicity (probabilty) of text between the following classes => Toxic, Severly Toxic, Obscene, Threatening, Insulting and Identity Hate.
     - [text_explore](https://github.com/temmyzeus/text_explore) : A python package to perform EDA on text
 - 🌱 I’m currently learning
 	- Transformers & Bert
