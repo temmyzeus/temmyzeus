@@ -2,7 +2,12 @@
 
 - 🔭 I’m currently working on:
     - [No_Toxic](https://github.com/temmyzeus/No-Toxic): An API to checkout the qualitative toxicty (definite class) or quantatitive toxicity (probabilty) of text between the following classes => Toxic, Severly Toxic, Obscene, Threatening, Insulting and Identity Hate.
+
+      ​	Tech Stack: Tensorflow, Python, FastAPI
+
     - [text_explore](https://github.com/temmyzeus/text_explore) : A python package to perform EDA on text
+
+      ​	Tech Stack: Python, NLTK
 - 🌱 I’m currently learning
 	- Transformers & Bert
 - 👯 I’m looking to collaborate on:
