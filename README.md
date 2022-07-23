@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a Temiloluwa Awoyele, a.k.a temmyzeus</h1>
+<h1 align="center">Hi there 👋, I'm Temiloluwa Awoyele, a.k.a temmyzeus</h1>
 
 - 🔭 I’m currently working on:
 	- Serverless ETL Workflow
