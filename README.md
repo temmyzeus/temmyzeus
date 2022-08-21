@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on:
 	- Serverless ETL Workflow
+	- Spotify Batch Ingestion
 - 🌱 I’m currently learning
 	- Apache Airflow & Terraform
 	- Udacity Data Engineering Zoomcamp
