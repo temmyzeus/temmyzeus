@@ -4,7 +4,8 @@
 	- Serverless ETL Workflow
 	- Spotify Batch Ingestion
 - 🌱 I’m currently learning
-	- Apache Airflow & Terraform
+	- Apache Airflow
+	- Spark and PySpark
 	- Udacity Data Engineering Zoomcamp
 	- Data Engineering Zoomcamp by DataTalks Club
 - 👯 I’m looking to collaborate on:
